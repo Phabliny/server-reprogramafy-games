@@ -7,4 +7,6 @@
 
 ## Games 
 <p align="center"><img src="img/controle.jpg"width="30%" height="50%" /></p>
-    Entrega da semana 8 que consiste em uma API que ustiliza o verbo GET para retornar todos os jogos da lista e também retornar os jogos específicos quando digitado o seu ID na URL.
+    Entrega da semana 8 que consiste em uma API que utiliza o verbo GET para retornar todos os jogos da lista e também retornar os jogos específicos quando digitado o seu ID na URL.
+
+
