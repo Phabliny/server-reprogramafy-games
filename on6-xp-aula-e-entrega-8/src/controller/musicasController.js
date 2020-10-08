@@ -69,7 +69,6 @@ const getArtistabyId = (request, response) => {
     const id = request.params.id
     const artista = listaArtistas.find(artista => artista.id == id)
     if (artista) {
-
         const musicas = listaMusicas.filter(item => item.artista == artista.nome)
     
         const novoArtista = {

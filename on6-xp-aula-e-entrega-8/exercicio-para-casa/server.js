@@ -1,5 +1,5 @@
 const app = require('./src/app')
 
-const PORT = 8080
+const PORT = 8000
 
 app.listen(PORT, ()=> console.log(`Servidor funcionando na porta ${PORT}`)) 
